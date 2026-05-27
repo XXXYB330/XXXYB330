@@ -1,6 +1,6 @@
 ### Bonjour & Welcome! 
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=XXXYB330&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide_rank=true&custom_title=My%20GitHub%20Stats" />
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=XXXYB330&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&hide_rank=true&custom_title=My%20GitHub%20Stats&v=1" />
 
 >  Heureux que vous ayez visité ma page d’accueil! (很高兴你能来到这里！)
 
@@ -31,7 +31,7 @@
 ###  Connect with Me
 
 - **小红书 (XHS)**：搜索 **努力进化** 即可找到我，欢迎交流技术或分享剧单！
-- **Email**：(你可以在这里补充你的邮箱，例如 `yourname@example.com`)
+- **Email**：`1281330144@qq.com`)
 
 ---
 
