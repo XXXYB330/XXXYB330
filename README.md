@@ -9,9 +9,9 @@
 
 ### ️ Tech Stack & Interests
 
-- ** 身份**：正在努力进化的研究僧 (Research Student)
-- ** 方向**：Digital IC Design / Computer Architecture / Hardware Enthusiast
-- ** 当前状态**：
+- **身份**：正在努力进化的研究僧 (Research Student)
+- **方向**：Digital IC Design / Computer Architecture / Hardware Enthusiast
+- **当前状态**：
   - 专注于数字集成电路设计与验证
   - 探索 RISC-V 与高性能计算架构
   - 正在学习 SystemVerilog / UVM / Python
@@ -21,9 +21,9 @@
 ###  Life & Hobbies
 
 在代码和波形图之外，我也是一名重度剧集爱好者：
-- ** 追剧口味**：偏爱英剧、美剧、日剧以及经典的港剧。
-- ** 剧情偏好**：对权力斗争（House of Cards 风格）以及黑帮/江湖叙事（Gangs 题材）情有独钟。
-- ** 最近在追**：*The Walking Dead* (TWD) —— 在末日中寻找人性的光辉。
+- **追剧口味**：偏爱英剧、美剧、日剧以及经典的港剧。
+- **剧情偏好**：对权力斗争（House of Cards 风格）以及黑帮/江湖叙事（Gangs 题材）情有独钟。
+- **最近在追**：*The Walking Dead* (TWD) —— 在末日中寻找人性的光辉。
 
 ---
 
