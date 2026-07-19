@@ -76,15 +76,6 @@
 
 ---
 
-## 📬 Connect with Me · 联系我
-
-- 📕 **小红书 (XHS)**：搜索 **努力进化** 即可找到我  
-  （技术讨论、剧单分享、踩坑记录都欢迎！）
-- 📧 **Email**：`1281330144@qq.com`
-- 💬 每一个 star / issue / 私信都是我进化的动力 🧬
-
----
-
 ## 🪄 A Little Note · 写在最后
 
 > 🇫🇷 **J’espère que ce que j’ai écrit peut vous aider.**  
