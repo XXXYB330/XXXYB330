@@ -31,7 +31,7 @@
 - 🧠 **Obsidian + 一堆插件**  
   个人知识库 · 学习笔记 · 代码片段 · 波形踩坑记录 All in One  
   *常用插件：Dataview · Excalidraw · obsidian-git · recent-files-obsidian · calendar · …*
-🤖 Claude Code + DeepSeek ──🔀 ccswitch──▶ 🧠 Obsidian 知识库
+
 
 ---
 
@@ -97,8 +97,7 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=XXXYB330&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXXYB330&layout=compact&langs_count=8&theme=tokyonight" />
+  <img src="https://img.shields.io/github/stars/XXXYB330/ConSci-v1.0?style=social" alt="Stars" />
   
   <br>
   <img src="https://komarev.com/ghpvc/?username=XXXYB330&label=Profile%20views&color=0e75b6&style=flat" alt="XXXYB330" />
